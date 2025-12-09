@@ -1,7 +1,7 @@
 -- ============================================================
 -- Shipping & Logistics Database
 -- Author: Gerardo Najarro
--- Date Created: 4-8-2025
+-- Date Created: 4-9-2025
 -- Description: Database schema for managing hubs, shipments, 
 --              accounts, and clients for a theoretical shipping company
 -- ============================================================
